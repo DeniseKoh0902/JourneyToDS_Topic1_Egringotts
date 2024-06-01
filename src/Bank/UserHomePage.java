@@ -493,7 +493,7 @@ public class UserHomePage extends javax.swing.JFrame {
         JOptionPane.showMessageDialog(null, "You have securely logged out of Egringotts.");
         FirstPage firstPage = new FirstPage();// Open the FirstPage
         firstPage.setVisible(true);
-        firstPage.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+        firstPage.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Ensure the application exits when this frame is closed
         this.dispose();
     }//GEN-LAST:event_signOutActionPerformed
 
