@@ -1,0 +1,59 @@
+Transaction History, history, records, transaction, Pensieve Past
+Dive into your "Pensieve Past" to witness the chronicles of your magical transactions. Experience the journey of your financial adventures in the precise order they unfolded, ensuring clarity and insight into your past financial endeavors.
+
+hi, hello, hey, halo, hii
+Hi and well met, traveler of the magical realm! What mystical mysteries can I unravel for you today?
+
+How do I access my E-Gringotts account?, access account, access, account
+To access your account, simply tap your wand on your smartphone screen while saying “Alohomora!” Alternatively, you can use your fingerprint or magical passphrase.
+
+What happens if I forget my account password?, forget, forgot, password, cannot log in
+Fear not! Just visit our nearest Floo Network fireplace and whisper “Password Resetus” into the flames. Our goblin tech support team will send you an owl with instructions to reset your password.
+
+Can I withdraw gold from my vault at midnight during a full moon?, withdraw, gold, midnight, full moon
+While we appreciate your lunar enthusiasm, our goblins need their beauty sleep. Vaults are accessible during regular business hours—no werewolves allowed.
+
+Are my savings protected from Dementor attacks?, savings, protected, dementor, hacker, hacking account, safe
+Our vaults are guarded by enchanted Dementor-repellent charms. Plus, your gold is insured against any magical mishaps, including Niffler heists.
+
+How do I transfer funds to a fellow wizard?, transfer, funds, wizard, transaction, payment, transfer to my friend
+Use our “Portkey Pay” feature. Simply tap your Gringotts key fob against theirs and visualize the amount you wish to transfer. The gold will teleport instantly!
+
+Can I invest in Hippogriff feathers or Phoenix tears?, invest, hippogriff feathers, phoenix tears, investment
+While those are fascinating investments, we recommend our Dragon Scale Mutual Funds. They’re fiery hot right now!
+
+What’s the interest rate on a Galleon savings account?, interest, rate
+Our Hippogriff-approved interest rate is 3.14% annually. It’s magical, just like the number π.
+
+Is there a spell to check my account balance?, spell, check, account balance
+Indeed! Whisper “Accio Ledger” while tapping your wand on your parchment. Your balance will appear in shimmering ink.
+
+Can I get a loan for a Nimbus 3000 broomstick?, nimbus 3000, broomstick
+Of course! Our Nimbus Loan Department specializes in broomstick financing. Just be prepared to repay in Quidditch victories.
+
+What’s the penalty for overdrawing my account?, penalty, overdraw
+Accidental overdrafts result in a temporary transformation into a garden gnome. Don’t worry; it wears off after a good laugh.
+
+I want to delete my account, delete account, delete
+Deleting an account is a delicate matter. Please schedule an appointment with the Head Goblin to discuss account closure procedures.
+
+goblin assistance, goblin, assistance, help
+Our goblin advisors are at your service. Seek them out at any Gringotts branch for financial guidance. Feel free to owl us at egringotts2024@gmail.com or contact us at 018-7777358.
+
+loan application, loan, apply loan
+Need galleons for a new cauldron or potion ingredients? Apply for a loan with Gringotts and get a decision within minutes.
+
+currency, convert, conversion, exchange
+Simply flick your wand towards the currency you wish to exchange, envision the amount you desire. With the incantation of "Exchangeus Monetus," watch as the coins gracefully dance from one currency to another~
+
+Sorting Hat Select, Transfer filter, Transaction filter, filter
+Ah, the Sorting Hat Select! Whether seeking transactions by date, amount threshold, or categorical type such as Food, Grocery, or Entertainment, this feature guides you to your desired financial records with ease and efficiency!
+
+user type, types, status
+Discover your wizarding status based on your Galleon savings: Silver Snitch, Golden Galleon, and finally Platinum Patronus! Enjoy exclusive perks, personalized financial advice from goblin experts, and priority access to magical services. Keep saving to reach the next tier of wizarding status!
+
+Thank you, see you, seeya, thanks, bye
+My pleasure to assist you. Goodbye and have a magical day! 
+
+default
+Apologies, but I seem to be lost in the corridors of my mind. Could you kindly rephrase your inquiry in a manner befitting the magical ambiance of Hogwarts?
