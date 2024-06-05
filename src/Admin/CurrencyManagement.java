@@ -529,6 +529,7 @@ public class CurrencyManagement extends javax.swing.JFrame {
     private void btn_removeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_removeActionPerformed
         this.currencyID = Integer.parseInt(txt_currencyID.getText());
         this.currencyName = txt_currencyName.getText();
+        String currencyname=this.currencyName;
         this.rateToGalleon = txt_excRate.getText();
         this.processingFeeRate = txt_processRate.getText();
         
@@ -556,7 +557,7 @@ public class CurrencyManagement extends javax.swing.JFrame {
                             displayCurrency();
 
                             //delete the particular currency column in userbalance table
-                            statement.executeUpdate("ALTER TABLE userbalance DROP COLUMN " + currencyName);
+                            statement.executeUpdate("ALTER TABLE userbalance DROP COLUMN " + currencyname);
                             System.out.println("Column deleted successfully.");
 
                         } else {
